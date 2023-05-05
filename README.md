@@ -1,3 +1,4 @@
+![nicorich ロゴ２](https://user-images.githubusercontent.com/131616105/236413988-400744a7-0ae1-4598-9806-fa1bd0d949eb.png)
 <!DOCTYPE html>
 <html>
 <head>

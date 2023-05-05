@@ -4,6 +4,8 @@
 	<title>こんにちは、世界！</title>
 </head>
 <body>
+　<img src="nicorich ロゴ１" alt="ニコリッチのロゴマーク">
+
 	<h1>ようこそ、チャピットのWebページへ！</h1>
 	<p>ここはチャピットのWebページです。こんにちは、世界！</p>
 </body>
